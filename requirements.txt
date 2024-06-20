@@ -1,0 +1,8 @@
+requests
+pyodbc
+argparse
+pandas
+matplotlib
+seaborn
+plotly
+jupyterlab
